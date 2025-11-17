@@ -87,7 +87,7 @@ const chromeExtensionIds = [
   'jcblcjolcojmfopefcighfmkkefbaofg', // Tab Grab
   'eehmoikadcijkapfjocnhjclpbaindlb', // BrowserLens - https://browserlens.com/
   'hfhellofkjebbchcdffmicekjdomkcmc', // Epic Games Library Extension
-  'gknigcbhlammoakmmdddkblknanpjiac', // Zen Analytics Pixel Tracker - zapt.web.app
+  'gknigcbhlammoakmmdddkblknanpjiac', // Zen Analytics Pixel Tracker - https://zap-pixel.web.app/
   'cnklededohhcbmjjdlbjdkkihkgoggol', // Crypto Pulse - Compose your newtab with nature images, widgets & realtime Crypto Price & Bitcoin RSS.
   'miponnamafdenpgjemkknimgjfibicdc', // Youtube Video Scheduler
   'nhmbcmalgpkjbomhlhgdicanmkkaajmg', // Chatslator: Livestream Chat Translator
@@ -109,6 +109,8 @@ const chromeExtensionIds = [
   'gpnckbhgpnjciklpoehkmligeaebigaa', // Livestream Chat Reader - Text-to-Speech for YouTube/Twitch chat
   'fjlalaedpfcojcfpkgkglbjjbbkofgnl', // ChatGPT Token Counter - Count tokens in real time on chatgpt conversation
   'fbgblmjbeebanackldpbmpacppflgmlj', // LinuxDo Scripts - 为 linux.do 用户提供了一些增强功能
+  'dfacnjidgbagicaekenjgclfnhdnjjdi', // Zen Virtual Piano - https://zen-piano.web.app/
+  'naeibcegmgpofimedkmfgjgphfhfhlab', // Cryto Pulse Price Tracker - https://get-crypto-pulse.web.app/
 ];
 
 const { data, err, isLoading } = useListExtensionDetails(chromeExtensionIds);
